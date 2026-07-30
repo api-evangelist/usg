@@ -8,6 +8,17 @@ description: >-
   professionals through its distributor network and provides digital tools and
   APIs to support the building and construction workflow.
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.usg.com/content/dam/usg/logos/usg-logo.png
 tags:
   - Building Materials
