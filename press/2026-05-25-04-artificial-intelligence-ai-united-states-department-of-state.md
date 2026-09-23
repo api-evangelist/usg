@@ -1,7 +1,9 @@
 ---
 title: Artificial Intelligence (AI) - United States Department of State
 url: https://www.state.gov/artificial-intelligence
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"USG" press release artificial intelligence'
 position: 4
 source: serpapi-google

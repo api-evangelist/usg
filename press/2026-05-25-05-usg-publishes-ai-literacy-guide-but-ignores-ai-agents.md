@@ -1,7 +1,9 @@
 ---
 title: USG publishes AI literacy guide, but ignores AI agents
 url: https://www.linkedin.com/posts/mkassorla_usg-student-guide-to-generative-ai-literacy-activity-7362821158565515266-OGMs
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"USG" press release artificial intelligence'
 position: 5
 source: serpapi-google
